@@ -1,5 +1,5 @@
 # BankingApplication
-A secure banking application that allow users to access banking services. The application provides users with account creation, card selection, and investment features
+A secure banking application developed using Spring Boot, Spring Security and Spring JPA that allow users to access banking services. The application provides users with account creation, card selection, and investment features
 ## Features of the Application
 The application allows users to:
 
