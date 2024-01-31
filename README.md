@@ -1,7 +1,7 @@
 # BankingApplication
 A secure banking application that allow users to access banking services. The application provides users with account creation, card selection, and investment features
 ## Features of the Application
-The application should allow users to:
+The application allows users to:
 
     1. Register themselves into the application.
 
@@ -13,5 +13,5 @@ The application should allow users to:
 
     5. Invest Money through the bank account.
 
-    6. It should have an admin panel that can be accessed to view user and account information only for users with admin roles.
+    6. It has an admin panel that can be accessed to view user and account information only for users with admin roles.
     
